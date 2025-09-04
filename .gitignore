@@ -1,0 +1,21 @@
+# Angular cache
+.angular/cache/
+node_modules/
+dist/
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Compiled output
+*.class
+target/
+build/
+out/
+
+# Logs
+*.log
+npm-debug.log*
