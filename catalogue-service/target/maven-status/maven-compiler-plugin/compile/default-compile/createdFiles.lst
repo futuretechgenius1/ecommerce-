@@ -1,0 +1,15 @@
+com\ecommerce\catalogue\controller\CatalogueController.class
+com\ecommerce\catalogue\dto\ItemRequest.class
+com\ecommerce\catalogue\entity\TaxRate.class
+com\ecommerce\catalogue\dto\ItemResponse.class
+com\ecommerce\catalogue\entity\ItemAttribute.class
+com\ecommerce\catalogue\repository\InventoryRepository.class
+com\ecommerce\catalogue\repository\ItemRepository.class
+com\ecommerce\catalogue\entity\Inventory.class
+com\ecommerce\catalogue\entity\Category.class
+com\ecommerce\catalogue\entity\Item.class
+com\ecommerce\catalogue\config\SecurityConfig.class
+com\ecommerce\catalogue\CatalogueServiceApplication.class
+com\ecommerce\catalogue\repository\TaxRateRepository.class
+com\ecommerce\catalogue\service\CatalogueService.class
+com\ecommerce\catalogue\repository\CategoryRepository.class

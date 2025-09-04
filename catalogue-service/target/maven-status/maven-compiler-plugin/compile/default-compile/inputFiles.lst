@@ -1,0 +1,15 @@
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\CatalogueServiceApplication.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\config\SecurityConfig.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\controller\CatalogueController.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\dto\ItemRequest.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\dto\ItemResponse.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\entity\Category.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\entity\Inventory.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\entity\Item.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\entity\ItemAttribute.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\entity\TaxRate.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\repository\CategoryRepository.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\repository\InventoryRepository.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\repository\ItemRepository.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\repository\TaxRateRepository.java
+D:\App\ecm\catalogue-service\src\main\java\com\ecommerce\catalogue\service\CatalogueService.java
