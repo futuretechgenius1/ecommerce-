@@ -1,21 +1,24 @@
 # Angular cache
-.angular/cache/
-node_modules/
-dist/
-.DS_Store
+.angular/
 
-# IDE files
-.idea/
-.vscode/
-*.swp
-*.swo
+# Node modules
+node_modules/
 
 # Compiled output
-*.class
-target/
-build/
-out/
+/dist
+/tmp
+/out-tsc
 
-# Logs
-*.log
-npm-debug.log*
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
